@@ -1,0 +1,14 @@
+{
+  "name": "lpegts",
+  "version": "0.0.1",
+  "description": "Combinator Parser for TypeScript using Labeled PEGs",
+  "main": "parser.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabio Mascarenhas",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.9.2"
+  }
+}
